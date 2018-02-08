@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Artificial Intelligence and Machine learning cource 
 
-You can use the [editor on GitHub](https://github.com/hexiumsoftec/hexium.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains all the codes, cource details, pdfs and examples to the AI and machine learning cource. 
+The main objective of this cource is to give students the basic idea about AI and make the learning process simple and easy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contents
 
-### Markdown
+#### 1. [Introduction and scope](http://www.google.com)
+   
+   - In this section, the focus is to give an introduction to the current AI revolution and the scopeof AI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2. Problems and opportunities
+   
+   - A brief on how problems can be solved by applying AI
 
-```markdown
-Syntax highlighted code block
+#### 3. A crash cource in python for AI
+   
+   - In this section, basic elements needed to implement AI models are introduced and steps to install everything that is required.
 
-# Header 1
-## Header 2
-### Header 3
+#### 4. Machine Learning Basics
+   - Here, we dive into the world of machine learning and do some coding to get an idea of what ML is
+   
+#### 5. Deep learning.
+   - Deeplearning is introduced.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hexiumsoftec/hexium.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 6. Computer vision
+   - Basic introduction and hands on training, Computer vision 
